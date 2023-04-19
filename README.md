@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YusufHarbelioglu
-- 👀 JavaScript,CSS,C#,PHP,JAVA
-- 🌱 JavaScript and C#
+- 👀 JavaScript,CSS,HTML
+- 🌱 JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 yusufharbelioglu@gmail.com
 
